@@ -1,4 +1,4 @@
-# MuteSpotify
+# Ad Silencer for Spotify Web
 Using Spotify for free but sick of disturbing ads? This Firefox extension can help!
 This extension mutes the Spotify web player automatically when it's playing an ad.
 
