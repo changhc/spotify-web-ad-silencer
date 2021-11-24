@@ -3,6 +3,11 @@ Using Spotify for free but sick of disturbing ads? This browser extension can he
 This extension mutes the Spotify web player automatically when it's playing an ad. Both Firefox and Chrome are supported.
 
 ## Install this extension
+
+# From Firefox add-ons
+[Link to the Add-on](https://addons.mozilla.org/en-GB/firefox/addon/mute-spotify-ads/)
+
+### From source
 1. Clone this repo
 1. * Firefox: Follow the instruction in [Mozilla's documentation](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#installing) and import files in folder `firefox`
    * Chrome: Follow the instruction in [Chrome's documentation](https://developer.chrome.com/docs/extensions/mv3/getstarted/#manifest) and import files in folder `chrome`
