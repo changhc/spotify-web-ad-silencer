@@ -4,7 +4,7 @@ This extension mutes the Spotify web player automatically when it's playing an a
 
 ## Install this extension
 
-# From Firefox add-ons
+### From Firefox add-ons
 [Link to the Add-on](https://addons.mozilla.org/en-GB/firefox/addon/mute-spotify-ads/)
 
 ### From source
